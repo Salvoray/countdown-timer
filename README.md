@@ -1,1 +1,1 @@
-# js-hw-11-timer
+# countdown-timer
